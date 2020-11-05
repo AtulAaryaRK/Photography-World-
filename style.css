@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-size: 25px;
+    background-color: navajowhite;
+}
+
+.sp {
+    margin: 10px;
+}
+
+img {
+    width: 250px;
+    height: 185px;
+    margin: 10px;
+}
+
+#aa {
+    height: 185px;
+}
+
+#atul {
+    border-top: dashed green;
+    width: 990px;
+    margin-top: -20px;
+}
+
+#qatul {
+    margin-top: 50px;
+}
+
+#game{
+    margin-right: 200px;
+}
